@@ -4,6 +4,8 @@
 
 ![Screenshot n8n](./docs/assets/n8n_screenshot.png)
 
+With [oauth2-proxy](https://oauth2-proxy.github.io/oauth2-proxy/) filter, see usage example on https://github.com/betagouv/oauth2-deploy-demo
+
 ## Installation
 
 ### 1. Declare a new application in Scalingo

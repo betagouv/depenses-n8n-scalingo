@@ -1,1 +1,2 @@
-web: bin/run & npm start
+privateweb: ./bin/start_with_oauth2_proxy.sh exec npx n8n
+
